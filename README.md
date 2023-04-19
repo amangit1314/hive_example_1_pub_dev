@@ -1,12 +1,12 @@
-# hive_example_1_pub_dev
+# Hive Todo App
 
-A new Flutter project.
+A Todo app using Hive Local Database with Flutter
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a Todo app using Hive Local Database with Flutter
 
-A few resources to get you started if this is your first Flutter project:
+## A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
